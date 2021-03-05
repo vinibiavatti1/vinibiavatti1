@@ -6,6 +6,7 @@
 
 <p align="center">
     Full Stack Developer<br>
+    <hr>
     <a href="#!"><strong>-- Curriculum Vitae --</strong></a>
 </p>
 
