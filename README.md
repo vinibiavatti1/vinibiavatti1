@@ -15,5 +15,5 @@ Full Stack Developer
 - Learn exact sciences
 
 ### Contact
-- Email: vinicius.biavatti@gmail.com
-- CV: <a href="#!"><strong>-- Curriculum Vitae --</strong></a>
+- vinicius.biavatti@gmail.com
+- <a href="https://vinibiavatti1.github.io/vinibiavatti1/index.html">Curriculum Vitae</a>
