@@ -81,23 +81,8 @@ ul {
     font-size: 16px;
     color: #0b5394;
 }
-.space {
-    margin-bottom: 20px;
-}
-.small-space {
-    margin-bottom: 15px;
-}
-.skill-container {
-    display: flex;
-}
-.skill-container .skill {
-    width: 200px;
-}
-.skill-container .indicator {
-    text-align: right;
-    width: 80px;
-    letter-spacing: 1px;
-    font-size: 12px;
+.indicator {
+    float: right;
     font-family: monospace;
 }
 .title {
