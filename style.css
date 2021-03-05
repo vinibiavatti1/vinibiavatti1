@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+@media print {
+    body * {
+        visibility: hidden;
+    }
+    .print, .print * {
+        visibility: visible;
+    }
+    .print {
+        position: absolute;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+}
+body {
+    margin: 0px;
+    background-color: rgb(30, 30, 30);
+    font-family: Calibri, Helvetica, sans-serif;
+    font-size: 13px;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+ul {
+    margin: 0px;
+    padding-left: 20px;
+}
+
+.paper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    background-color: white;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+.idiom-selector {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    padding: 2px;
+}
+.print {
+    display: flex;
+}
+.shadow {
+    box-shadow: 0 3px 6px rgba(255,255,255,0.16), 0 3px 6px rgba(255,255,255,0.23);
+}
+.avatar {
+    border-radius: 100%;
+    border: 5px solid rgba(0, 0, 0, .1);
+}
+.section-1 {
+    order: 0;
+    padding: 30px;
+    width: 300px;
+    background-color: white;
+}
+.section-2 {
+    order: 1;
+    padding: 30px;
+    padding-left: 0px;
+    background-color: white;
+}
+.center {
+    text-align: center;
+}
+.subtitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    color: #0b5394;
+}
+.space {
+    margin-bottom: 20px;
+}
+.small-space {
+    margin-bottom: 15px;
+}
+.skill-container {
+    display: flex;
+}
+.skill-container .skill {
+    width: 200px;
+}
+.skill-container .indicator {
+    text-align: right;
+    width: 80px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-family: monospace;
+}
+.title {
+    font-weight: bold;
+    font-size: 35px;
+    color: #0b5394;
+}
+.profession {
+    font-size: 16px;
+}
