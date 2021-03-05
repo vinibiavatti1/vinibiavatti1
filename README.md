@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/27300655?s=460&u=5c84707d32f35d07f25136c960151c008f577859&v=4" width="100px" />
-    <h1 align="center">Vinícius Reif Biavatti</h1>
-    <p align="center">Full Stack Developer</p>
-    <p align="center"><a href="#!"><strong>-- Curriculum Vitae --</strong></a></p>
+    <h3 align="center">Vinícius Reif Biavatti</h3>
+    Full Stack Developer<br>
+    <a href="#!"><strong>-- Curriculum Vitae --</strong></a>
 </p>
 
 ### Who am I?
