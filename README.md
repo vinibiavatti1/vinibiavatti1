@@ -13,9 +13,9 @@
 - Vinícius Reif Biavatti
 - Lives in Lisbon, Portugal
 - Speaks Portuguese and English
-- Brasilian
+- Brazilian
 
-### What I like?
+### What do I like?
 - Web development
 - Python language
 - PHP language
