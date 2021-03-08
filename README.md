@@ -16,4 +16,3 @@ Full Stack Developer
 
 ### Contact
 - vinicius.biavatti@gmail.com
-- <a href="https://vinibiavatti1.github.io/vinibiavatti1/index.html">Curriculum Vitae</a>
