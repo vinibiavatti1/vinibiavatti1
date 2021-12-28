@@ -10,9 +10,9 @@ Full Stack Developer
 ### What do I like?
 - Web development
 - Python language
-- PHP language
 - Create and innovate ideas
 - Learn exact sciences
+- Play some old-school games
 
 ### Contact
 - vinicius.biavatti@gmail.com
