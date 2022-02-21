@@ -1,10 +1,10 @@
 ## Vinícius Reif Biavatti
-Full Stack Developer
+Tech Lead/Full Stack Developer
 
 ### Who am I?
 - Vinícius Reif Biavatti
 - Lives in Lisbon, Portugal
-- Speaks Portuguese and English
+- Speaks English and Portuguese 
 - Brazilian
 
 ### What do I like?
